@@ -17,7 +17,7 @@ My current focus is backend engineering and modular software architecture, with 
 An MSc dissertation project — a modular RAG framework testing generation-side personalisation through controlled, reproducible evaluation.
 
 <div align="center">
-<img src="assets/rag-architecture.svg" alt="RAG framework architecture: ingestion, retrieval, generation and evaluation pipeline with a personalisation layer and integrity checks" width="800">
+<img src="assets/rag-architecture.png" alt="RAG framework architecture: ingestion, retrieval, generation and evaluation pipeline with a personalisation layer and integrity checks" width="800">
 </div>
 
 - Designed and implemented a modular backend architecture separating ingestion, retrieval, generation, experiments, and evaluation into independent components
